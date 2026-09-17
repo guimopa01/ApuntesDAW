@@ -1,7 +1,7 @@
-#Apuntes DAW
+# Apuntes DAW
 
-Guillermo Morcillo Carmona
+## Guillermo Morcillo Carmona
 
-*Indice
+## *Indice*
 
--Tema 1
+- Tema 1 Sistema de Control de Versiones (Git y Github)
